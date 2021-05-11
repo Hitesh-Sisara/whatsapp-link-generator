@@ -1,17 +1,21 @@
-# whatsapplinkgenerator
+# Whatsapp link generator
 
-A new Flutter project.
+Basic Flutter app that can help you send messages to number that you have not saved 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  
+  
+![Alt text](https://user-images.githubusercontent.com/72780174/117768058-7204a680-b24f-11eb-8f3d-b855af95c060.png "ScreenShot")
 
-A few resources to get you started if this is your first Flutter project:
+![Alt text](https://user-images.githubusercontent.com/72780174/117768061-7335d380-b24f-11eb-8f87-278c22cc07fb.png "ScreenShot")
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+  
+</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
 # whatsapp-link-generator
